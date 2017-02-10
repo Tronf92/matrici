@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\ady\documents\visual studio 2012\projects\matrici\matrici\source.cpp(27): error C2661: 'getchar' : no overloaded function takes 1 arguments
